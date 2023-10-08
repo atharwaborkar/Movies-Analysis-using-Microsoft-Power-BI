@@ -1,6 +1,6 @@
 # Movies-Analysis-using-Microsoft-Power-BI
 
-Completed the project on Movies Analysis using Microsoft Power BI. Solved the Real Business Problems.
+*Completed the project on Movies Analysis using Microsoft Power BI. Solved the Real Business Problems*
 
 1) Movies Dataset v1.0 is the name of the Data Set in which the data is Present in the IMDB Movies.
 2) In sheet 2 their is Description given for the Dataset.
